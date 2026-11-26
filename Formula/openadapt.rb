@@ -3,8 +3,8 @@ class Openadapt < Formula
 
   desc "Open-source, verified execution layer for computer-use agents"
   homepage "https://openadapt.ai"
-  url "https://files.pythonhosted.org/packages/e3/c4/22b3e6ca8c1f1b3307c26981ce390609db4e49c456d738463b5d05329f8a/openadapt-1.24.0.tar.gz"
-  sha256 "5ef787aff0178b1f2031d9fc684d1021ada618bb9579c09c09cd079ee7570b2a"
+  url "https://files.pythonhosted.org/packages/d1/5a/9a861fe5529aaaf326be56774bea5761c11c8ae0a12763eabdda56db0dd5/openadapt-1.24.1.tar.gz"
+  sha256 "69d1bdf1759c7f062c68765cb4dceefbd2b2f784e0559432807097fc438456c2"
   license "MIT"
 
   depends_on "python@3.12"
